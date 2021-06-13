@@ -1,6 +1,9 @@
 # stock-ticker
 Files to display stock information on [MAX7219](https://www.maximintegrated.com/en/products/power/display-power-control/MAX7219.html) controlled LED Matrices.
 
+### Preview
+- [Video Link](https://www.youtube.com/watch?v=urgL1vKh9yM)
+
 ### How-To/Installation:
 1. Clone the repo/type `git clone https://github.com/jackokeeffe/stock-ticker.git` into your command prompt.
 2. Install BeautifulSoup4 and Pyserial in your Python Enviroment.
